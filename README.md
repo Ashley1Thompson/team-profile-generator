@@ -31,5 +31,5 @@ THEN I exit the application, and the HTML is generated
 2. Open in Integrated Terminal on your text editing app.
 3. $ node index.js
 4. Answer the prompted questions.
-5. When your tema is complete, select 'No one else to add".
+5. When your team is complete, select 'No one else to add".
 6. Find your newly-created index.html in the dist folder. 
